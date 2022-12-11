@@ -2,46 +2,115 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+## Intro de la documentation
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Découvrons **les outil de moderation pour Sensity** tuto réalisé pour tous les staff et tous les grades.
 
-## Getting Started
 
-Get started by **creating a new site**.
+## Pour commencer :
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-### What you'll need
+<Tabs>
+  <TabItem value="Sur discord" label="discord" default>
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Avoir l'**a2f de connecté** *(pour les modérateurs discord)*
 
-## Generate a new site
+Activé le mode **développeur**
 
-Generate a new Docusaurus site using the **classic template**.
 
-The classic template will automatically be added to your project after you run the command:
+  </TabItem>
+  <TabItem value="In Game" label="ig">
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+**Débloqué le 2eme** slot pour le personnage de moderation
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Demandé les **permission** à la fin de la formation
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Mettre un **discriminateur**
 
-## Start your site
+  </TabItem>
+</Tabs>
 
-Run the development server:
 
-```bash
-cd my-website
-npm run start
-```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## Activé l'a2f sur discord 
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+L'authentification à deux facteurs (A2F) est un **bon moyen d'ajouter une couche de sécurité supplémentaire à ton compte Discord**. Il est **obligatoire** pour les staff sensity de l'activé pour plus de securité !
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### Comment ?
+
+Commencez par cliquer sur le petit rouage juste à côté de votre pseudonyme et de votre avatar.
+
+Vous tomberez directement sur « Mon compte », qui vous proposera l'Authentification à Deux Facteurs juste sous le cadre contenant les informations de votre pseudonyme/avatar/adresse e-mail.
+
+Une fois que vous aurez cliqué sur le bouton « Activer l'Authentification à Deux Facteurs », vous verrez apparaître un pop-up avec trois étapes. Pour commencer à utiliser l'A2F, vous allez devoir télécharger soit Google Authenticator (celui que j'ai), soit Authy sur votre appareil mobile. N'importe lequel de ces deux programmes fonctionnera ici.
+
+### Avec Google Authenticator
+Si vous utilisez Google Authenticator, un message vous demandera de choisir votre méthode d'activation, soit en lisant un code-barre ou en entrant une clé fournie.
+
+Utilisez le QR scanner de Google Authenticator sur le code QR disponible dans Discord.
+
+Ceci générera un code à 6 chiffres qui activera l'A2F dans Discord. Entrez-le, et c'est bon ;)
+
+:::caution Télécharger vos codes de secours
+
+Assurez-vous aussi de **télécharger vos codes de secours**. Et gardez-les précieusement.
+
+:::
+
+
+## Activé le mode développeur
+
+Allez dans les Paramètres Utilisateurs , dans l'application Discord.
+Dans le menu de gauche, cliquez sur la section Apparence .
+Dans Avancé , activez l'option Mode Développeur .
+
+
+:::info 
+Retournez dans l'interface, cliquez sur un utilisateur ou un salon par exemple, vous devriez maintenant voir l'option Copier l'identifiant
+:::
+
+## Démarche du ped admin 
+
+Explications lors de la formation, à venir... 
+
+
+## Discriminateur 
+
+Il est important de mettre notre discriminateur sur fivem directement ! 
+:::info 
+Paramètres puis player usurname
+:::
+
+
+<Tabs
+  defaultValue="Novice"
+  values={[
+    {label: 'Novice', value: 'Novice'},
+    {label: 'Helpeur', value: 'Helpeur'},
+    {label: 'Modérateur / MV2 ', value: 'Modérateur V2'},
+    {label: 'xx ', value: 'xx'},
+    {label: 'Administarteur', value: 'Administarteur'},  
+    {label: 'Super Administarteur', value: 'Super Administarteur'},            
+  ]}>
+  <TabItem value="Novice">N | </TabItem>
+  <TabItem value="Helpeur">H | </TabItem>
+  <TabItem value="Modérateur V2">M | </TabItem>
+  <TabItem value="xx">?? </TabItem>  
+  <TabItem value="Administarteur">A | </TabItem>
+  <TabItem value="Super Administarteur">A | ?</TabItem>
+</Tabs>
+
+:::caution Attention 
+Quand votre cache Fivem est vider il faut penser à remettre votre discriminateur 
+:::
+
+
+## Info 
+
+Cette documentation est organisé en **grand thème global** puis dans   *Autre élément important*   vous aurez des précisions sur votre *grade staff, des informations additionel et des outils* ! 
+
+Si tu as n'importe quel **question** hésite pas à **envoyer un message à un formateurs de préférence, ou sinon un recruteur**. 
+
+Bonne lecture !
