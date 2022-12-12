@@ -21,11 +21,11 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs className="unique-tabs">
-  <TabItem value="L'identifiant du compte ">This is an ap ple 🍎</TabItem>
-  <TabItem value="L'identifiant In Game ">This is an orange 🍊</TabItem>
-  <TabItem value="Nom et prénom RP ">This is a banana 🍌</TabItem>
-  <TabItem value="Nom Steam CFX ">This is an ap ple 🍎</TabItem>
-  <TabItem value="Discord ">This is an ap ple 🍎</TabItem>
+  <TabItem value="L'identifiant In Game ">L'identifiant ingame et l'identifiant que vous verrez sur le discriminateur et celui avec quoi vous pourrez interagir avec le joueur. Si vous voulez vous tp, bring ou jail vous devrez prendre cette identifiant (dans notre cas c'est le 71). Il est noté ID. </TabItem>
+  <TabItem value="L'identifiant du compte ">Identifiant de compte ou account ID mais pas nécessaire pour vous, il est utile pour plus haut ^^ </TabItem>
+  <TabItem value="Nom et prénom RP ">Le nom et prénom RP qui est visible sur le discriminateur et simplement comment s'appelle le joueur dans notre cas le joueur s'appelle Zaco Couille. </TabItem>
+  <TabItem value="Nom Steam CFX ">le nom Steam ou CFX et le nom que le joueur peut se donner. Il sera visible notamment quand 2 utilisateurs veulent réaliser une emote nécessitant une validation. Cela n'est pas utile dans votre modération quotidienne ! Dans cette situation le nom est A Nicolas </TabItem>
+  <TabItem value="Discord ">Vous allez voir ici son discord, cela permet de rechercher dans le log un utilisateur qui allié son compte discord sans que nous ayons son ID. parfois L’ID cdiscount peut apparaître sous cette forme &#60;@756834469087805440> </TabItem>
 </Tabs>
 
 ## Mort 
