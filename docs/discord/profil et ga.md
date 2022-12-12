@@ -27,5 +27,3 @@ Autre que de garder un profil convenable il est important de surveiller sont GA,
 Des sanctions peuvent suivre allant jusqu'au démote si cette règle n'est pas respectée.
 
 :::
-
-test webhook
