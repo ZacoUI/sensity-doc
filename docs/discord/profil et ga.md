@@ -8,7 +8,9 @@ sidebar_position: 2
 Lorsque vous devenez staff sur Sensity, c'est important d'avoir un profil discord convenable pour montrer plus de sérieux dans votre modération.
 
 
-
+:::info 
+Toute photo extravagante invitation à d'autres saveurs que sansity, Et phrase déplacée sur votre profil ne sera pas tolérée 
+:::
 
 
 ## Game Activity 
@@ -25,3 +27,4 @@ Autre que de garder un profil convenable il est important de surveiller sont GA,
 Des sanctions peuvent suivre allant jusqu'au démote si cette règle n'est pas respectée.
 
 :::
+
