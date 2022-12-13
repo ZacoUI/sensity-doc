@@ -1,7 +1,9 @@
 ---
 sidebar_position: 2
+title: Profil et Game Activity
+description: Nous allons voir ici l'utilité de chaque log expliquer  un par un 
 ---
-# Profil et Game Activity
+
 ## Profil
 
 
