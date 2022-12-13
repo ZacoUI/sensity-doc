@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Les voc
+description:Nous allons voir ici comment se comporter dans les vocales Sensity .
 ---
 Nous allons voir ici comment se comporter dans les vocales Sensity .
 
