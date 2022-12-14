@@ -1,0 +1,37 @@
+.red {
+    color: red;
+  }
+  .red[aria-selected='true'] {
+    border-bottom-color: red;
+  }
+  
+  .orange {
+    color: orange;
+  }
+  .orange[aria-selected='true'] {
+    border-bottom-color: orange;
+  }
+  
+  .yellow {
+    color: yellow;
+  }
+  .yellow[aria-selected='true'] {
+    border-bottom-color: yellow;
+    }
+ .rose[aria-selected='true'] {
+    border-bottom-color: rgb(234, 0, 255);
+  
+    }
+ .vert[aria-selected='true'] {
+   border-bottom-color: rgb(37, 168, 92);
+
+}
+.orange[aria-selected='true'] {
+   border-bottom-color: orange;
+
+
+}
+.pink[aria-selected='true'] {
+   border-bottom-color: rgb(80, 9, 87);
+
+}
