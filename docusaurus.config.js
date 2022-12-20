@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Sensity* Doc',
   tagline: 'Sensity* V2 docu staff',
-  url: 'https://zacoui.github.io/',
+  url: 'https://zacoui.github.io',
   baseUrl: '/sensity-doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
